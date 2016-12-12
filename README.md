@@ -6,7 +6,7 @@ This application requires the following addons:
 - ofxAccelerometer
 - ofxOpenCv
 - ofxCv
-- ofxPerPixelSegment (Use the one found here - https://github.com/malreddysid/ofxPerPixelSegment)
+- ofxPerPixelSegment (Use the one found here - https://github.com/malreddysid/ofxPerPixelSegment and rename the folder to ofxPerPixelSegment)
 
 To install them for your environment, Google their names, find their GitHub repository, and clone those repositories in .../of_v0.9.7_android_release/addons
 
