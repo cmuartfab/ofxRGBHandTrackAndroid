@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/androidEmptyExample/build/intermediates/exploded-aar/androidEmptyExample/ofAndroidLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27976264192ae209f6b75fdd7eed52aa32f27da8">
+        <dex dex="/Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/androidEmptyExample/build/intermediates/pre-dexed/debug/classes-a860b080f242fd987a25649f4298973c44480e7b.jar" />
+    </item>
+    <item
+        jar="/Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/build/intermediates/exploded-aar/ofxHandTrack/ofAndroidLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="770a2c83610376a88f35f2a8f07e76ae6ab2f55b">
+        <dex dex="/Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/build/intermediates/pre-dexed/debug/classes-52952d905c0f1271dc8cba2b10e0222a2da72078.jar" />
+    </item>
+
+</items>

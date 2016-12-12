@@ -1,0 +1,7 @@
+set solib-search-path /Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/obj/local/armeabi-v7a:/Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/libs/armeabi-v7a
+set sysroot /Users/siddarth/Desktop/RA/android-ndk-r10e/platforms/android-19/arch-arm/
+directory /Users/siddarth/Desktop/RA/android-ndk-r10e/platforms/android-19/arch-arm/usr/include
+directory /Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/src
+directory /Users/siddarth/Desktop/RA/android-ndk-r10e/sources/cxx-stl/system
+directory /Users/siddarth/Desktop/RA/of_v0.9.7_android_release/apps/myApps/ofxHandTrack/libs/armeabi-v7a
+
